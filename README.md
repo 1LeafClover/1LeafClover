@@ -7,6 +7,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/1LeafClove/count.svg" />
 </p>
+-------------------------------------------
 
 ### About me
 --------------------------------------------
