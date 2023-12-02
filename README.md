@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Glen
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
 Aspiring Data Engineer / Solutions Architect
 --------------------------------------------
 
-Embarking on the journey to become a skilled Data Engineer and Solutions Architect, I strive to craft purposeful, well-refactored code. This repository tracks my real-time coding evolution, showcasing mastery in Python for data tasks and JavaScript for seamless AWS integration. Join me in witnessing the continuous refinement of my skills as I navigate the complexities of data solutions.
+### About me
+
+My name is Glen an aspiring Data Engineer / Solutions Architect an Embarking on the journey to become a skilled Data Engineer and Solutions Architect, I strive to craft purposeful, well-refactored code. This repository tracks my real-time coding evolution, showcasing mastery in Python for data tasks and JavaScript for seamless AWS integration. Join me in witnessing the continuous refinement of my skills as I navigate the complexities of data solutions.
 
 *   🌍  I'm based in Singapore
 *   ✉️  You can contact me at [glen.ong1997@gmail.com](mailto:glen.ong1997@gmail.com)
