@@ -1,8 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Glen Ong
-================================================================================================================================Aspiring Data Engineer / Solutions Architect--------------------------------------------Embarking on the journey to become a skilled Data Engineer and Solutions Architect, I strive to craft purposeful, well-refactored code. This repository tracks my real-time coding evolution, showcasing mastery in Python for data tasks and JavaScript for seamless AWS integration. Join me in witnessing the continuous refinement of my skills as I navigate the complexities of data solutions.* 🌍  I'm based in Singapore* ✉️  You can contact me at [glen.ong1997@gmail.com](mailto:glen.ong1997@gmail.com)* 🚀  I'm currently working on [PySpark](http://github.com/1LeafClover/ict337)* 🧠  I'm learning AWS, JS
+================================================================================================================================
 
-### Skills
+Aspiring Data Engineer / Solutions Architect
+--------------------------------------------
 
+Embarking on the journey to become a skilled Data Engineer and Solutions Architect, I strive to craft purposeful, well-refactored code. This repository tracks my real-time coding evolution, showcasing mastery in Python for data tasks and JavaScript for seamless AWS integration. Join me in witnessing the continuous refinement of my skills as I navigate the complexities of data solutions.
+
+*   🌍  I'm based in Singapore
+*   ✉️  You can contact me at [glen.ong1997@gmail.com](mailto:glen.ong1997@gmail.com)
+*   🚀  I'm currently working on [PySpark](http://github.com/1LeafClover/ict337)
+*   🧠  I'm learning AWS, JS
+
+### Skills 
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a></p>
