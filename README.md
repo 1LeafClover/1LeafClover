@@ -17,7 +17,7 @@ My name is Glen! I am embarking on a journey to become a skilled Data Engineer a
 *   🌍  I'm based in Singapore
 *   ✉️  You can contact me at [glen.ong1997@gmail.com](mailto:glen.ong1997@gmail.com)
 *   🚀  I'm currently working on [PySpark](http://github.com/1LeafClover/ict337)
-*   🧠  I'm learning AWS, Python, JS
+*   🧠  I'm learning AWS, Python, Terraform
 
 ### Skills
 --------------------------------------------
