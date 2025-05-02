@@ -8,16 +8,17 @@
   <img src="https://profile-counter.glitch.me/1LeafClove/count.svg" />
 </p>
 
+## 👷🏻‍♂️ Data Engineer
 
 ### About me
 --------------------------------------------
 
 My name is Glen! I am embarking on a journey to become a skilled Data Engineer and Solutions Architect, I strive to craft purposeful, well-refactored code. This repository tracks my real-time coding evolution, showcasing mastery in Python for data tasks and JavaScript for seamless AWS integration. Join me in witnessing the continuous refinement of my skills as I navigate the complexities of data solutions.
 
-*   🌍  I'm based in Singapore
-*   ✉️  You can contact me at [glen.ong1997@gmail.com](mailto:glen.ong1997@gmail.com)
-*   🚀  I'm currently working on [PySpark](http://github.com/1LeafClover/ict337)
-*   🧠  I'm learning AWS, Python, Terraform
+- 🔭 **Currently working on**: Weather tracking data pipline project [Databricks](http://github.com/1LeafClover/weather-pipeline)
+- 🌱 **Currently learning**: Databricks & Airflow best practices
+- 💡 **Interests**: Data pipeline optimization, cloud architectures, and infrastructure as code
+- 📫 **How to reach me**: [glen.ong1997@gmail.com](mailto:glen.ong1997@gmail.com)
 
 ### Skills
 --------------------------------------------
