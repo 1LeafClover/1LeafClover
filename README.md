@@ -8,19 +8,16 @@
   <img src="https://profile-counter.glitch.me/1LeafClove/count.svg" />
 </p>
 
-## 👷🏻‍♂️ **Data Engineer**
+## 👷🏻‍♂️ **Senior Engineer**
 
 ### About me
 --------------------------------------------
 
-My name is **Glen**! I'm on a mission to become an exceptional Data Engineer, crafting robust, scalable data solutions. This repository tracks my journey as I build production-grade data pipelines-mastering Python for data processing, SQL for transformation, and infrastructure-as-code for deployment.
-Currently focused on end-to-end pipeline development, I prioritize clean, maintainable code while deepening my expertise in modern data stack tools. Join me as I evolve from foundational skills to architecting enterprise-grade data systems.
-_(Future explorations: AWS integration, Terraform, and CLI tooling)_
+My name is **Glen**! I'm on a mission to become an exceptional Data Engineer, crafting robust, scalable data solutions. This repository tracks my journey.
 
-- 🔭 **Currently working on**: Weather tracking data pipline project [Databricks](http://github.com/1LeafClover/weather-pipeline)
-- 🌱 **Currently learning**: Dockers, Databricks & Airflow
-- 💡 **Interests**: Data pipeline optimization, cloud architectures, and infrastructure as code
-- 📫 **How to reach me**: [glen.ong1997@gmail.com](mailto:glen.ong1997@gmail.com)
+- 🔭 **Currently working on**: (Browsing RudderStack)
+- 📖 **Currently reading**: Designing Data-Intensive Applications
+- 📚 **Book repertoire**: Fundamentals of Data engineering, Data Pipelines Pocket Reference, Story Telling with Data
 
 ### Skills
 --------------------------------------------
