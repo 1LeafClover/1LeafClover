@@ -3,16 +3,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## 👷🏻‍♂️ **Senior Engineer**
+## 👷🏻‍♂️ **Senior Data Engineer**
 
 ### About me
 --------------------------------------------
 
-My name is **Glen**! I'm on a mission to become an exceptional Data Engineer, crafting robust, scalable data solutions. This repository tracks my journey.
+My name is **Glen**! I'm on a mission to become an exceptional Data Engineer. This repository tracks my journey.
 
-- 🔭 **Currently working on**: Exploring Databricks
-- 📖 **Currently reading**: Designing Data-Intensive Applications
-- 📚 **Book repertoire**: Fundamentals of Data engineering, Data Pipelines Pocket Reference, Story Telling with Data
+- 🔭 **Currently working on**: AWS Solution Architecting & AWS Data Engineering
+- 📖 **Currently reading**: The Data Warehouse Toolkit
+- 📚 **Book repertoire**: Designing Data-Intensive Applications, SQL Performance Explained, Fundamentals of Data engineering, Data Pipelines Pocket Reference, Story Telling with Data
 
 ### Skills
 --------------------------------------------
